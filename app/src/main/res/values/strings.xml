@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mp3Demo</string>
+    <string name="btnPlay">播放</string>
+    <string name="btnPause">暂停</string>
+    <string name="btnStop">停止</string>
+</resources>
